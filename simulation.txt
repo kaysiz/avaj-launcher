@@ -1,0 +1,9 @@
+Tower says Baloon#: B10 registered to weather tower
+Tower says Baloon#: B21 registered to weather tower
+Tower says JetPlane#: J12 registered to weather tower
+Tower says Helicopter#: H13 registered to weather tower
+Tower says Helicopter#: H24 registered to weather tower
+Tower says Helicopter#: H35 registered to weather tower
+Tower says Baloon#: B36 registered to weather tower
+Tower says JetPlane#: J27 registered to weather tower
+Tower says Helicopter#: H48 registered to weather tower
