@@ -3,6 +3,8 @@ package za.co.avajLauncher.simulator.vehicles;
 import za.co.avajLauncher.simulator.Logger;
 import za.co.avajLauncher.simulator.WeatherTower;
 
+import java.util.HashMap;
+
 public class Helicopter extends Aircraft implements Flyable{
     private WeatherTower weatherTower;
 
@@ -17,6 +19,11 @@ public class Helicopter extends Aircraft implements Flyable{
     @Override
     public void updateConditions() {
         String weather = weatherTower.getWeather(this.coords);
+        HashMap<String, String> map = new HashMap<>();
+        map.put("SUN", "Heli Its hot");
+        map.put("RAIN", "Heli Its wet");
+        map.put("FOG", "Heli I can not see a bloody thing");
+        map.put("SNOW", "Heli Daaaamn its freezing");
 
         if (weather.equals("SUN")) {
             this.coords = new Coordinates(coords.getLongitude() + 10, coords.getLatitude(), coords.getHeight() + 2);

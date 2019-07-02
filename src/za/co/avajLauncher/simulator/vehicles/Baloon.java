@@ -3,6 +3,8 @@ package za.co.avajLauncher.simulator.vehicles;
 import za.co.avajLauncher.simulator.Logger;
 import za.co.avajLauncher.simulator.WeatherTower;
 
+import java.util.HashMap;
+
 public class Baloon extends Aircraft implements Flyable {
     private WeatherTower weatherTower;
 
@@ -13,6 +15,11 @@ public class Baloon extends Aircraft implements Flyable {
     @Override
     public void updateConditions() {
         String weather = weatherTower.getWeather(this.coords);
+        HashMap<String, String> map = new HashMap<>();
+        map.put("SUN", "Its hot");
+        map.put("RAIN", "Its wet");
+        map.put("FOG", "I can not see a bloody thing");
+        map.put("SNOW", "Daaaamn its freezing");
 
         if (weather.equals("SUN")) {
             this.coords = new Coordinates(coords.getLongitude() + 2, coords.getLatitude(), coords.getHeight() + 4);
@@ -25,6 +32,12 @@ public class Baloon extends Aircraft implements Flyable {
         } else {
             System.out.println("The weather condition is not valid");
             System.exit(1);
+        }
+        Logger.addMessage(map.get(weather));
+        if (this.coords.getHeight() <= 0) {
+            Logger.addMessage("Baloon#" + this.name + "(" + this.id + ") LANDED.");
+            Logger.addMessage("Baloon#" + this.name + "(" + this.id + ") UNREGISTERED FROM WEATHER TOWER.");
+            weatherTower.unregister(this);
         }
     }
 

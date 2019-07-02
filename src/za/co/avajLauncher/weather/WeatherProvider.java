@@ -19,12 +19,10 @@ public class WeatherProvider {
     public String getCurrentWeather(Coordinates coordinates) {
         int randomNum = 0;
         if(coordinates.getHeight() > 0 && coordinates.getLongitude() > 0 && coordinates.getLatitude() > 0) {
-            int coordinateSum = coordinates.getHeight() + coordinates.getLongitude() + coordinates.getLatitude();
-            //randomNum = coordinateSum % 4;
             Random rand = new Random();
-            //randomNum = rand.nextInt(3);
-            randomNum = 3;
+            randomNum = rand.nextInt(4);
         }
+        System.out.println(randomNum);
         return weather[randomNum];
     }
 }

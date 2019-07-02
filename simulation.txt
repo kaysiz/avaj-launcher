@@ -7,3 +7,34 @@ Tower says Helicopter#: H35 registered to weather tower
 Tower says Baloon#: B36 registered to weather tower
 Tower says JetPlane#: J27 registered to weather tower
 Tower says Helicopter#: H48 registered to weather tower
+Its hot
+I can not see a bloody thing
+Its wet
+I can not see a bloody thing
+I can not see a bloody thing
+Its wet
+Its hot
+Daaaamn its freezing
+Its hot
+Its wet
+Baloon#B1(0) LANDED.
+Baloon#B1(0) UNREGISTERED FROM WEATHER TOWER.
+Its hot
+I can not see a bloody thing
+Its wet
+Its wet
+Its wet
+Daaaamn its freezing
+Its wet
+Its wet
+I can not see a bloody thing
+Its wet
+Its wet
+I can not see a bloody thing
+Daaaamn its freezing
+Baloon#B3(6) LANDED.
+Baloon#B3(6) UNREGISTERED FROM WEATHER TOWER.
+Its wet
+Its wet
+Baloon#B2(1) LANDED.
+Baloon#B2(1) UNREGISTERED FROM WEATHER TOWER.

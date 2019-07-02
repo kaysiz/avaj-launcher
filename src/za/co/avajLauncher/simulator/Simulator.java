@@ -38,9 +38,9 @@ public class Simulator {
                     flyable.registerTower(weatherTower);
                 }
 
-//                for (int i = 1; i <= simulations; i++) {
-//                    Logger.addMessage("this is a test "+ new Random(34));
-//                }
+                for (int i = 1; i <= simulations; i++) {
+                    weatherTower.changeWeather();
+                }
             }
             bufferedReader.close();
 
