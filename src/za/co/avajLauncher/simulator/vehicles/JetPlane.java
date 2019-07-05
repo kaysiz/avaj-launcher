@@ -15,12 +15,14 @@ public class JetPlane extends Aircraft implements Flyable {
 
     @Override
     public void updateConditions() {
+
         String weather = weatherTower.getWeather(this.coords);
         HashMap<String, String> map = new HashMap<>();
-        map.put("SUN", "Its hot");
-        map.put("RAIN", "Its wet");
+        map.put("SUN", "Itsd hot");
+        map.put("RAIN", "Its wdet");
         map.put("FOG", "I can not see a bloody thing");
         map.put("SNOW", "Daaaamn its freezing");
+
         if (weather.equals("SUN")) {
             this.coords = new Coordinates(coords.getLongitude() + 10, coords.getLatitude(), coords.getHeight() + 2);
         } else if(weather.equals("RAIN")) {
@@ -32,6 +34,12 @@ public class JetPlane extends Aircraft implements Flyable {
         } else {
             System.out.println("The weather condition is not valid");
             System.exit(1);
+        }
+        Logger.addMessage(map.get(weather));
+        if (this.coords.getHeight() <= 0) {
+            Logger.addMessage("JetPlane#" + this.name + "(" + this.id + ") LANDED.");
+            Logger.addMessage("JetPlane#" + this.name + "(" + this.id + ") UNREGISTERED FROM WEATHER TOWER.");
+            weatherTower.unregister(this);
         }
     }
 

@@ -8,33 +8,156 @@ Tower says Baloon#: B36 registered to weather tower
 Tower says JetPlane#: J27 registered to weather tower
 Tower says Helicopter#: H48 registered to weather tower
 Its hot
-I can not see a bloody thing
-Its wet
-I can not see a bloody thing
-I can not see a bloody thing
-Its wet
-Its hot
 Daaaamn its freezing
-Its hot
+Itsd hot
+Heli Its wet
+Heli Daaaamn its freezing
+Heli I can not see a bloody thing
+Its wet
+Itsd hot
+Heli Daaaamn its freezing
 Its wet
 Baloon#B1(0) LANDED.
 Baloon#B1(0) UNREGISTERED FROM WEATHER TOWER.
-Its hot
+Itsd hot
+Heli Daaaamn its freezing
+Heli I can not see a bloody thing
+Heli Its hot
 I can not see a bloody thing
+I can not see a bloody thing
+Heli Daaaamn its freezing
+I can not see a bloody thing
+I can not see a bloody thing
+Heli Its hot
+Heli Its wet
+Heli Its wet
 Its wet
-Its wet
-Its wet
+Itsd hot
+Heli Its wet
+I can not see a bloody thing
+I can not see a bloody thing
+Heli I can not see a bloody thing
+Heli Daaaamn its freezing
+Heli I can not see a bloody thing
 Daaaamn its freezing
+Daaaamn its freezing
+Heli Its wet
+Its hot
+Daaaamn its freezing
+Heli Its hot
+Heli Its hot
+Heli Its hot
 Its wet
-Its wet
-I can not see a bloody thing
-Its wet
-Its wet
-I can not see a bloody thing
+Its wdet
+Heli I can not see a bloody thing
+Its hot
+Its wdet
+Heli I can not see a bloody thing
+Heli I can not see a bloody thing
+Heli Its hot
 Daaaamn its freezing
 Baloon#B3(6) LANDED.
 Baloon#B3(6) UNREGISTERED FROM WEATHER TOWER.
+Heli Its hot
+Its hot
+Daaaamn its freezing
+Heli Daaaamn its freezing
+Helicopter#H1(3) LANDED.
+Helicopter#H1(3) UNREGISTERED FROM WEATHER TOWER.
+Heli Its hot
+Itsd hot
+Heli Its hot
+Its hot
+Itsd hot
+Heli Its hot
+Heli Its wet
+I can not see a bloody thing
+Heli I can not see a bloody thing
 Its wet
+Itsd hot
+Heli I can not see a bloody thing
+Heli Its wet
+I can not see a bloody thing
+Heli Its wet
+Its hot
+I can not see a bloody thing
+Heli I can not see a bloody thing
+Heli Its hot
+Itsd hot
+Heli I can not see a bloody thing
 Its wet
+Its wdet
+Heli Its wet
+Heli Daaaamn its freezing
+Itsd hot
+Heli Its wet
+Its wet
+I can not see a bloody thing
+Heli I can not see a bloody thing
+Heli I can not see a bloody thing
+I can not see a bloody thing
+Heli I can not see a bloody thing
+Daaaamn its freezing
+I can not see a bloody thing
+Heli Its hot
+Heli Its hot
+Daaaamn its freezing
+Heli I can not see a bloody thing
+Its wet
+Itsd hot
+Heli I can not see a bloody thing
+Heli Its hot
+Daaaamn its freezing
+Heli Its wet
+I can not see a bloody thing
+Daaaamn its freezing
+Heli Daaaamn its freezing
+Heli Its wet
+Itsd hot
+Heli Daaaamn its freezing
+I can not see a bloody thing
+Daaaamn its freezing
+Heli Its wet
+Heli Its hot
+Its wdet
+Heli Daaaamn its freezing
+Its hot
+Its wdet
+Heli Daaaamn its freezing
+Heli Its wet
+Itsd hot
+Heli I can not see a bloody thing
+Daaaamn its freezing
+Its wdet
+Heli Daaaamn its freezing
+Helicopter#H2(4) LANDED.
+Helicopter#H2(4) UNREGISTERED FROM WEATHER TOWER.
+I can not see a bloody thing
+Heli I can not see a bloody thing
+Daaaamn its freezing
 Baloon#B2(1) LANDED.
 Baloon#B2(1) UNREGISTERED FROM WEATHER TOWER.
+Heli Its wet
+Daaaamn its freezing
+Heli Its hot
+Itsd hot
+Heli Daaaamn its freezing
+Daaaamn its freezing
+Heli I can not see a bloody thing
+Daaaamn its freezing
+Heli Its wet
+Its wdet
+Heli Daaaamn its freezing
+Helicopter#H4(8) LANDED.
+Helicopter#H4(8) UNREGISTERED FROM WEATHER TOWER.
+Daaaamn its freezing
+Heli Its wet
+Daaaamn its freezing
+Daaaamn its freezing
+JetPlane#J1(2) LANDED.
+JetPlane#J1(2) UNREGISTERED FROM WEATHER TOWER.
+I can not see a bloody thing
+Heli I can not see a bloody thing
+Daaaamn its freezing
+Heli I can not see a bloody thing
+Itsd hot
