@@ -22,7 +22,6 @@ public class WeatherProvider {
             Random rand = new Random();
             randomNum = rand.nextInt(4);
         }
-        System.out.println(randomNum);
         return weather[randomNum];
     }
 }

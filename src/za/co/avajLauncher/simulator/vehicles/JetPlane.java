@@ -35,10 +35,10 @@ public class JetPlane extends Aircraft implements Flyable {
             System.out.println("The weather condition is not valid");
             System.exit(1);
         }
-        Logger.addMessage(map.get(weather));
+        Logger.addMessage("JetPlane# " + this.name + " (" + this.id + ") " + map.get(weather));
         if (this.coords.getHeight() <= 0) {
-            Logger.addMessage("JetPlane#" + this.name + "(" + this.id + ") LANDED.");
-            Logger.addMessage("JetPlane#" + this.name + "(" + this.id + ") UNREGISTERED FROM WEATHER TOWER.");
+            Logger.addMessage("JetPlane#" + this.name + " (" + this.id + ") LANDED.");
+            Logger.addMessage("JetPlane#" + this.name + " (" + this.id + ") UNREGISTERED FROM WEATHER TOWER.");
             weatherTower.unregister(this);
         }
     }

@@ -1,0 +1,155 @@
+Tower says Baloon#: B10 registered to weather tower
+Tower says Baloon#: B21 registered to weather tower
+Tower says JetPlane#: J12 registered to weather tower
+Tower says Helicopter#: H13 registered to weather tower
+Tower says Helicopter#: H24 registered to weather tower
+Tower says Helicopter#: H35 registered to weather tower
+Tower says Baloon#: B36 registered to weather tower
+Tower says JetPlane#: J27 registered to weather tower
+Tower says Helicopter#: H48 registered to weather tower
+Baloon# B1 (0) Its hot
+Baloon# B2 (1) Daaaamn its freezing
+JetPlane# J1 (2) Itsd hot
+Helicopter# H1 (3) Heli I can not see a bloody thing
+Helicopter# H2 (4) Heli Its wet
+Helicopter# H3 (5) Heli Its wet
+Baloon# B3 (6) Its wet
+JetPlane# J2 (7) Its wdet
+Helicopter# H4 (8) Heli I can not see a bloody thing
+Baloon# B1 (0) Daaaamn its freezing
+Baloon# B1 (0) LANDED.
+Baloon# B1 (0) UNREGISTERED FROM WEATHER TOWER.
+JetPlane# J1 (2) Its wdet
+Helicopter# H1 (3) Heli Daaaamn its freezing
+Helicopter# H2 (4) Heli Daaaamn its freezing
+Helicopter# H3 (5) Heli Its wet
+Baloon# B3 (6) Its wet
+JetPlane# J2 (7) Daaaamn its freezing
+Helicopter# H4 (8) Heli I can not see a bloody thing
+Baloon# B2 (1) Its wet
+JetPlane# J1 (2) Itsd hot
+Helicopter# H1 (3) Heli Daaaamn its freezing
+Helicopter# H1 (3) LANDED.
+Helicopter# H1 (3) UNREGISTERED FROM WEATHER TOWER.
+Helicopter# H3 (5) Heli Daaaamn its freezing
+Baloon# B3 (6) Its hot
+JetPlane# J2 (7) Daaaamn its freezing
+Helicopter# H4 (8) Heli I can not see a bloody thing
+Baloon# B2 (1) Its wet
+JetPlane# J1 (2) I can not see a bloody thing
+Helicopter# H2 (4) Heli Its wet
+Helicopter# H3 (5) Heli Daaaamn its freezing
+Baloon# B3 (6) Daaaamn its freezing
+JetPlane# J2 (7) Daaaamn its freezing
+Helicopter# H4 (8) Heli I can not see a bloody thing
+Baloon# B2 (1) Its hot
+JetPlane# J1 (2) I can not see a bloody thing
+Helicopter# H2 (4) Heli Its wet
+Helicopter# H3 (5) Heli Its wet
+Baloon# B3 (6) Its wet
+JetPlane# J2 (7) Its wdet
+Helicopter# H4 (8) Heli Its hot
+Baloon# B2 (1) Its wet
+JetPlane# J1 (2) Daaaamn its freezing
+Helicopter# H2 (4) Heli Its wet
+Helicopter# H3 (5) Heli Daaaamn its freezing
+Baloon# B3 (6) Its hot
+JetPlane# J2 (7) Its wdet
+Helicopter# H4 (8) Heli Its wet
+Baloon# B2 (1) Its hot
+JetPlane# J1 (2) Its wdet
+Helicopter# H2 (4) Heli I can not see a bloody thing
+Helicopter# H3 (5) Heli Its hot
+Baloon# B3 (6) Its wet
+JetPlane# J2 (7) Daaaamn its freezing
+Helicopter# H4 (8) Heli I can not see a bloody thing
+Baloon# B2 (1) Its wet
+JetPlane# J1 (2) Itsd hot
+Helicopter# H2 (4) Heli I can not see a bloody thing
+Helicopter# H3 (5) Heli Its hot
+Baloon# B3 (6) Daaaamn its freezing
+Baloon# B3 (6) LANDED.
+Baloon# B3 (6) UNREGISTERED FROM WEATHER TOWER.
+Helicopter# H4 (8) Heli Daaaamn its freezing
+Baloon# B2 (1) I can not see a bloody thing
+JetPlane# J1 (2) Daaaamn its freezing
+Helicopter# H2 (4) Heli Its hot
+Helicopter# H3 (5) Heli Its wet
+JetPlane# J2 (7) Its wdet
+Helicopter# H4 (8) Heli Its wet
+Baloon# B2 (1) I can not see a bloody thing
+JetPlane# J1 (2) Itsd hot
+Helicopter# H2 (4) Heli Daaaamn its freezing
+Helicopter# H3 (5) Heli Its hot
+JetPlane# J2 (7) Itsd hot
+Helicopter# H4 (8) Heli Its hot
+Baloon# B2 (1) I can not see a bloody thing
+JetPlane# J1 (2) Daaaamn its freezing
+Helicopter# H2 (4) Heli I can not see a bloody thing
+Helicopter# H3 (5) Heli Daaaamn its freezing
+JetPlane# J2 (7) Its wdet
+Helicopter# H4 (8) Heli I can not see a bloody thing
+Baloon# B2 (1) I can not see a bloody thing
+JetPlane# J1 (2) Daaaamn its freezing
+Helicopter# H2 (4) Heli Daaaamn its freezing
+Helicopter# H3 (5) Heli Its wet
+JetPlane# J2 (7) Daaaamn its freezing
+Helicopter# H4 (8) Heli Its wet
+Baloon# B2 (1) Its hot
+JetPlane# J1 (2) Its wdet
+Helicopter# H2 (4) Heli I can not see a bloody thing
+Helicopter# H3 (5) Heli I can not see a bloody thing
+JetPlane# J2 (7) Itsd hot
+Helicopter# H4 (8) Heli I can not see a bloody thing
+Baloon# B2 (1) Daaaamn its freezing
+JetPlane# J1 (2) Daaaamn its freezing
+Helicopter# H2 (4) Heli I can not see a bloody thing
+Helicopter# H3 (5) Heli Its wet
+JetPlane# J2 (7) Its wdet
+Helicopter# H4 (8) Heli I can not see a bloody thing
+Baloon# B2 (1) I can not see a bloody thing
+JetPlane# J1 (2) Daaaamn its freezing
+JetPlane#J1 (2) LANDED.
+JetPlane#J1 (2) UNREGISTERED FROM WEATHER TOWER.
+Helicopter# H3 (5) Heli Its hot
+JetPlane# J2 (7) I can not see a bloody thing
+Helicopter# H4 (8) Heli Daaaamn its freezing
+Baloon# B2 (1) I can not see a bloody thing
+Helicopter# H2 (4) Heli Its hot
+Helicopter# H3 (5) Heli I can not see a bloody thing
+JetPlane# J2 (7) Its wdet
+Helicopter# H4 (8) Heli I can not see a bloody thing
+Baloon# B2 (1) Its hot
+Helicopter# H2 (4) Heli I can not see a bloody thing
+Helicopter# H3 (5) Heli Its wet
+JetPlane# J2 (7) Its wdet
+Helicopter# H4 (8) Heli Its hot
+Baloon# B2 (1) I can not see a bloody thing
+Helicopter# H2 (4) Heli I can not see a bloody thing
+Helicopter# H3 (5) Heli Daaaamn its freezing
+JetPlane# J2 (7) I can not see a bloody thing
+Helicopter# H4 (8) Heli Daaaamn its freezing
+Baloon# B2 (1) Its hot
+Helicopter# H2 (4) Heli Its hot
+Helicopter# H3 (5) Heli Its hot
+JetPlane# J2 (7) Itsd hot
+Helicopter# H4 (8) Heli Its wet
+Baloon# B2 (1) Its wet
+Helicopter# H2 (4) Heli Its hot
+Helicopter# H3 (5) Heli Daaaamn its freezing
+JetPlane# J2 (7) Daaaamn its freezing
+Helicopter# H4 (8) Heli Daaaamn its freezing
+Baloon# B2 (1) Daaaamn its freezing
+Baloon# B2 (1) LANDED.
+Baloon# B2 (1) UNREGISTERED FROM WEATHER TOWER.
+Helicopter# H3 (5) Heli Its wet
+JetPlane# J2 (7) Daaaamn its freezing
+Helicopter# H4 (8) Heli Its hot
+Helicopter# H2 (4) Heli Its wet
+Helicopter# H3 (5) Heli I can not see a bloody thing
+JetPlane# J2 (7) Daaaamn its freezing
+Helicopter# H4 (8) Heli Daaaamn its freezing
+Helicopter# H2 (4) Heli Daaaamn its freezing
+Helicopter# H3 (5) Heli I can not see a bloody thing
+JetPlane# J2 (7) Daaaamn its freezing
+Helicopter# H4 (8) Heli I can not see a bloody thing
